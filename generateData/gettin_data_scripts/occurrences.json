@@ -1,0 +1,1578 @@
+{
+    "speta_occurrences": [
+        [
+            "Decizie",
+            2424
+        ],
+        [
+            "Sentinta civila",
+            555
+        ],
+        [
+            "Sentinta penala",
+            194
+        ],
+        [
+            "Sentinta comerciala",
+            175
+        ],
+        [
+            "Hotarare",
+            132
+        ],
+        [
+            "Rezolutie",
+            1
+        ]
+    ],
+    "domeniu_occurrences": [
+        [
+            "Faliment",
+            266
+        ],
+        [
+            "Societati comerciale",
+            208
+        ],
+        [
+            "Procedura civila si penala cai de atac competente etc",
+            169
+        ],
+        [
+            "Acte ale autoritatilor publice",
+            151
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc",
+            124
+        ],
+        [
+            "Contracte",
+            102
+        ],
+        [
+            "Contracte de munca",
+            98
+        ],
+        [
+            "Pensii",
+            81
+        ],
+        [
+            "Contestatie la executare",
+            80
+        ],
+        [
+            "",
+            78
+        ],
+        [
+            "Salarizare",
+            69
+        ],
+        [
+            "Despagubiri penalitati",
+            68
+        ],
+        [
+            "Arest preventiv",
+            56
+        ],
+        [
+            "Revendicare actiuni bunuri drepturi",
+            53
+        ],
+        [
+            "Competenta materiala",
+            51
+        ],
+        [
+            "Ordonanta Presedintiala",
+            50
+        ],
+        [
+            "Raporturi de munca",
+            48
+        ],
+        [
+            "Revizuire",
+            46
+        ],
+        [
+            "VanzariCumparari",
+            45
+        ],
+        [
+            "Asistenta si asigurari sociale",
+            44
+        ],
+        [
+            "Minori",
+            44
+        ],
+        [
+            "Loviri si alte vatamari",
+            38
+        ],
+        [
+            "Desfacerea contractului de munca",
+            37
+        ],
+        [
+            "Carte Funciara",
+            37
+        ],
+        [
+            "Infractiuni",
+            35
+        ],
+        [
+            "Infractiuni prevazute in legi si decrete",
+            34
+        ],
+        [
+            "Contestatie in anulare",
+            32
+        ],
+        [
+            "Restituiri",
+            32
+        ],
+        [
+            "Prejudicii daune",
+            30
+        ],
+        [
+            "Executarea silita",
+            30
+        ],
+        [
+            "Cereri",
+            30
+        ],
+        [
+            "Omor",
+            28
+        ],
+        [
+            "Proprietate intelectuala",
+            25
+        ],
+        [
+            "Drepturile omului",
+            25
+        ],
+        [
+            "Probe dovezi",
+            23
+        ],
+        [
+            "Succesiuni mosteniri",
+            23
+        ],
+        [
+            "Suspendare a executarii",
+            22
+        ],
+        [
+            "Raspundere civila delictuala",
+            22
+        ],
+        [
+            "Uzucapiune Prescriptia achizitiva",
+            20
+        ],
+        [
+            "Furt",
+            19
+        ],
+        [
+            "Prescriptii",
+            18
+        ],
+        [
+            "Licitatii",
+            15
+        ],
+        [
+            "Competenta teritoriala",
+            15
+        ],
+        [
+            "Plati",
+            14
+        ],
+        [
+            "Partaj",
+            14
+        ],
+        [
+            "Liberare provizorie",
+            13
+        ],
+        [
+            "Citare Citatie",
+            13
+        ],
+        [
+            "Proprietate privata",
+            12
+        ],
+        [
+            "Talharie",
+            12
+        ],
+        [
+            "Rezolutiune",
+            12
+        ],
+        [
+            "Bunuri si valori imobiliare",
+            12
+        ],
+        [
+            "Conflict negativ de competenta",
+            12
+        ],
+        [
+            "Chemare in judecata actiuni cereri",
+            12
+        ],
+        [
+            "Impozite si taxe",
+            12
+        ],
+        [
+            "Falsificari infractiuni de",
+            12
+        ],
+        [
+            "Fondul funciar",
+            11
+        ],
+        [
+            "Constructii",
+            11
+        ],
+        [
+            "Contracte economice",
+            11
+        ],
+        [
+            "Locuinte",
+            11
+        ],
+        [
+            "Lichidare",
+            11
+        ],
+        [
+            "Cadastru Intabulare",
+            10
+        ],
+        [
+            "Sechestru Confiscare speciala",
+            10
+        ],
+        [
+            "Locatiune inchiriere",
+            10
+        ],
+        [
+            "Finante Financiar Implicatii ale Min Finantelor",
+            10
+        ],
+        [
+            "Asistenta juridica",
+            10
+        ],
+        [
+            "Constitutionalitate",
+            10
+        ],
+        [
+            "Expertize",
+            10
+        ],
+        [
+            "Primari primarii",
+            9
+        ],
+        [
+            "Taxa de timbru",
+            9
+        ],
+        [
+            "Suspendare a judecatii",
+            9
+        ],
+        [
+            "Abandon de familie",
+            9
+        ],
+        [
+            "Revocare",
+            8
+        ],
+        [
+            "Dobanzi",
+            8
+        ],
+        [
+            "Activitati economice infractiuni privind regimul lor",
+            8
+        ],
+        [
+            "inselaciune",
+            8
+        ],
+        [
+            "Individualizare",
+            8
+        ],
+        [
+            "Masuri de siguranta si educative",
+            8
+        ],
+        [
+            "Indemnizatii",
+            8
+        ],
+        [
+            "Coproprietate si indiviziune",
+            8
+        ],
+        [
+            "Exproprieri",
+            8
+        ],
+        [
+            "Banci Operatiuni bancare Institutii sparte",
+            7
+        ],
+        [
+            "Popriri",
+            7
+        ],
+        [
+            "imprumuturi credite creditori",
+            7
+        ],
+        [
+            "Nationalizare",
+            7
+        ],
+        [
+            "Servituti",
+            7
+        ],
+        [
+            "Mandat mandatari",
+            7
+        ],
+        [
+            "Concesionari concesiuni",
+            7
+        ],
+        [
+            "Liberare conditionata",
+            6
+        ],
+        [
+            "Asigurari auto si alte asigurari",
+            6
+        ],
+        [
+            "Reziliere",
+            6
+        ],
+        [
+            "Evaziune fiscala",
+            6
+        ],
+        [
+            "Abuzuri",
+            6
+        ],
+        [
+            "Chirii",
+            6
+        ],
+        [
+            "Superficie",
+            6
+        ],
+        [
+            "Donatii",
+            6
+        ],
+        [
+            "Taxa pe valoare adaugata",
+            6
+        ],
+        [
+            "Contraventii inchisoare contraventionala",
+            6
+        ],
+        [
+            "Persoane juridice",
+            5
+        ],
+        [
+            "Recidiva Concurs de infractiuni Pluralitate intermediara",
+            5
+        ],
+        [
+            "Viol",
+            5
+        ],
+        [
+            "Leasing",
+            5
+        ],
+        [
+            "Autorizare",
+            5
+        ],
+        [
+            "Simulatie",
+            5
+        ],
+        [
+            "Granituire",
+            5
+        ],
+        [
+            "Pacte comisorii",
+            5
+        ],
+        [
+            "Chemare in judecata actiuni cereri Faliment",
+            5
+        ],
+        [
+            "Minuta si dispozitivul",
+            5
+        ],
+        [
+            "Contrarietate Contradictorialitate de hotarari",
+            5
+        ],
+        [
+            "Circumstante si stari atenuante si agravante",
+            5
+        ],
+        [
+            "Plangeri prealabile",
+            5
+        ],
+        [
+            "Numirea in suspendarea sau eliberarea din functii",
+            5
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara",
+            5
+        ],
+        [
+            "Amenzi",
+            4
+        ],
+        [
+            "Privatizare",
+            4
+        ],
+        [
+            "Trafic de influenta",
+            4
+        ],
+        [
+            "Antecontracte",
+            4
+        ],
+        [
+            "Reabilitare de drept sau judecatoreasca",
+            4
+        ],
+        [
+            "Vama",
+            4
+        ],
+        [
+            "Clauze compromisorii",
+            4
+        ],
+        [
+            "Organizatii si activitati infractiuni care aduc atingere unor",
+            4
+        ],
+        [
+            "Taxe vamale",
+            4
+        ],
+        [
+            "Restructurare Reorganizare",
+            4
+        ],
+        [
+            "Uzufruct",
+            4
+        ],
+        [
+            "Circulatie rutiera",
+            4
+        ],
+        [
+            "Marturie mincinoasa",
+            4
+        ],
+        [
+            "Adoptii",
+            4
+        ],
+        [
+            "Amnistii gratieri suspendari ale executarii pedepsei",
+            3
+        ],
+        [
+            "Contestatie la executare Executarea silita",
+            3
+        ],
+        [
+            "Convietuirea sociala infractiuni privind",
+            3
+        ],
+        [
+            "Reconstituiri fapte acte drepturi",
+            3
+        ],
+        [
+            "Reconventionalitate actiuni cereri",
+            3
+        ],
+        [
+            "Contestatie la executare Procedura civila si penala cai de atac competente etc",
+            3
+        ],
+        [
+            "Gestiune frauduloasa",
+            3
+        ],
+        [
+            "Delapidare",
+            3
+        ],
+        [
+            "Paternitate Stabilire Tagada",
+            3
+        ],
+        [
+            "Asociatii Fundatii Corporatii",
+            3
+        ],
+        [
+            "Avocati",
+            3
+        ],
+        [
+            "Familie infractiuni si alte probleme in legatura cu familia",
+            3
+        ],
+        [
+            "incheierea de sedinta",
+            3
+        ],
+        [
+            "Distrugere",
+            3
+        ],
+        [
+            "Abuzuri Falsificari infractiuni de inselaciune",
+            3
+        ],
+        [
+            "Cadre didactice",
+            3
+        ],
+        [
+            "Situatii la divort",
+            3
+        ],
+        [
+            "Handicapati",
+            3
+        ],
+        [
+            "Persoane persecutate din motive politice",
+            3
+        ],
+        [
+            "Contrarietate Contradictorialitate de hotarari Revizuire",
+            3
+        ],
+        [
+            "Restituiri Revendicare actiuni bunuri drepturi",
+            3
+        ],
+        [
+            "Contracte de munca Desfacerea contractului de munca",
+            3
+        ],
+        [
+            "Despagubiri penalitati Proprietate privata",
+            2
+        ],
+        [
+            "Despagubiri penalitati Dobanzi",
+            2
+        ],
+        [
+            "Repunere in drepturi",
+            2
+        ],
+        [
+            "Dare de mita",
+            2
+        ],
+        [
+            "Legitima aparare",
+            2
+        ],
+        [
+            "Vicii Evictiuni",
+            2
+        ],
+        [
+            "Contestatie in anulare Procedura civila si penala cai de atac competente etc",
+            2
+        ],
+        [
+            "Citare Citatie Procedura civila si penala cai de atac competente etc",
+            2
+        ],
+        [
+            "Asistenta juridica Procedura civila si penala cai de atac competente etc",
+            2
+        ],
+        [
+            "Minori Pensii",
+            2
+        ],
+        [
+            "Executarea silita Procedura civila si penala cai de atac competente etc",
+            2
+        ],
+        [
+            "Avocati Contestatie la executare",
+            2
+        ],
+        [
+            "Posesie",
+            2
+        ],
+        [
+            "Infractiuni contra proprietatii",
+            2
+        ],
+        [
+            "Uciderea din culpa",
+            2
+        ],
+        [
+            "Ultraj",
+            2
+        ],
+        [
+            "Frontiera",
+            2
+        ],
+        [
+            "incetarea procesului penal Situatii",
+            2
+        ],
+        [
+            "Detinuti politici",
+            2
+        ],
+        [
+            "Tainuire",
+            2
+        ],
+        [
+            "Demolari",
+            2
+        ],
+        [
+            "Preturi stabiliri de",
+            2
+        ],
+        [
+            "Opozabilitate inopozabilitate",
+            2
+        ],
+        [
+            "Consilieri juridici",
+            2
+        ],
+        [
+            "Proprietate publica",
+            2
+        ],
+        [
+            "Vechime in munca",
+            2
+        ],
+        [
+            "Caz fortuit forta majora",
+            2
+        ],
+        [
+            "Locuinte VanzariCumparari",
+            2
+        ],
+        [
+            "Cereri Taxa de timbru",
+            2
+        ],
+        [
+            "Cereri Faliment",
+            2
+        ],
+        [
+            "Contracte VanzariCumparari",
+            2
+        ],
+        [
+            "Pensii Revizuire",
+            2
+        ],
+        [
+            "Tentative",
+            1
+        ],
+        [
+            "Despagubiri penalitati Prescriptii",
+            1
+        ],
+        [
+            "Chemare in judecata actiuni cereri Despagubiri penalitati",
+            1
+        ],
+        [
+            "Chemare in judecata actiuni cereri Contracte imprumuturi credite creditori",
+            1
+        ],
+        [
+            "Despagubiri penalitati Fondul funciar",
+            1
+        ],
+        [
+            "Chemare in judecata actiuni cereri Contracte Executarea silita imprumuturi credite creditori",
+            1
+        ],
+        [
+            "Despagubiri penalitati Fondul funciar Reconstituiri fapte acte drepturi",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Succesiuni mosteniri",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Despagubiri penalitati Raspundere civila delictuala",
+            1
+        ],
+        [
+            "Asistenta juridica Avocati Contracte Tarife",
+            1
+        ],
+        [
+            "Avocati Contracte Executarea silita",
+            1
+        ],
+        [
+            "Executarea silita Societati comerciale",
+            1
+        ],
+        [
+            "Cereri Finante Financiar Implicatii ale Min Finantelor",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Mandat mandatari",
+            1
+        ],
+        [
+            "Familie infractiuni si alte probleme in legatura cu familia Minori",
+            1
+        ],
+        [
+            "Contestatie la executare Contracte imprumuturi credite creditori Mandat mandatari",
+            1
+        ],
+        [
+            "Ordonanta Presedintiala Societati comerciale",
+            1
+        ],
+        [
+            "Executarea silita Partaj",
+            1
+        ],
+        [
+            "Contracte Preturi stabiliri de",
+            1
+        ],
+        [
+            "Contestatie la executare Suspendare a executarii",
+            1
+        ],
+        [
+            "Furt Infractiuni",
+            1
+        ],
+        [
+            "Falsificari infractiuni de Infractiuni",
+            1
+        ],
+        [
+            "Dare de mita Infractiuni",
+            1
+        ],
+        [
+            "Minori Situatii la divort",
+            1
+        ],
+        [
+            "Asigurari auto si alte asigurari Pensii",
+            1
+        ],
+        [
+            "Circulatie rutiera Prejudicii daune",
+            1
+        ],
+        [
+            "Comodat",
+            1
+        ],
+        [
+            "Evadare",
+            1
+        ],
+        [
+            "Contracte Reziliere",
+            1
+        ],
+        [
+            "Chirii Contracte",
+            1
+        ],
+        [
+            "Revendicare actiuni bunuri drepturi Uzucapiune Prescriptia achizitiva",
+            1
+        ],
+        [
+            "Amnistii gratieri suspendari ale executarii pedepsei Suspendarea conditionata",
+            1
+        ],
+        [
+            "Probe dovezi Recidiva Concurs de infractiuni Pluralitate intermediara",
+            1
+        ],
+        [
+            "Liberare conditionata Recidiva Concurs de infractiuni Pluralitate intermediara",
+            1
+        ],
+        [
+            "Abuzuri Demolari Distrugere",
+            1
+        ],
+        [
+            "Activitati economice infractiuni privind regimul lor Infractiuni prevazute in legi si decrete inselaciune Prejudicii daune",
+            1
+        ],
+        [
+            "Citare Citatie Procedura civila si penala cai de atac competente etc Revizuire",
+            1
+        ],
+        [
+            "Despagubiri penalitati inselaciune Prejudicii daune",
+            1
+        ],
+        [
+            "Arest preventiv Drepturile omului Luare de mita Probe dovezi",
+            1
+        ],
+        [
+            "Abuzuri Expertize Infractiuni Probe dovezi Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Activitati economice infractiuni privind regimul lor Evaziune fiscala",
+            1
+        ],
+        [
+            "Autoritatii infractiuni contra Infractiuni Posesie Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Individualizare Loviri si alte vatamari",
+            1
+        ],
+        [
+            "Contestatie la executare Liberare conditionata Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Citare Citatie inselaciune Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Distrugere Expertize Plangeri prealabile Probe dovezi Procedura civila si penala cai de atac competente etc Savarsirea mai multor infractiuni Viata sexuala infractiuni cu privire la Viol",
+            1
+        ],
+        [
+            "Cereri Masuri de siguranta si educative Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Infractiuni prevazute in legi si decrete Probe dovezi Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Asigurari auto si alte asigurari Contracte economice Delapidare Infractiuni inselaciune",
+            1
+        ],
+        [
+            "Asigurari auto si alte asigurari Circulatie rutiera Infractiuni prevazute in legi si decrete Loviri si alte vatamari Plangeri prealabile Prejudicii daune Procedura civila si penala cai de atac competente etc Raspundere civila delictuala",
+            1
+        ],
+        [
+            "Furt Infractiuni Talharie",
+            1
+        ],
+        [
+            "Contestatie la executare Masuri de siguranta si educative",
+            1
+        ],
+        [
+            "Amnistii gratieri suspendari ale executarii pedepsei Contestatie la executare Suspendarea conditionata",
+            1
+        ],
+        [
+            "Calomnie insulta Constitutionalitate Infractiuni",
+            1
+        ],
+        [
+            "Constitutionalitate Drepturile omului Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Expertize Probe dovezi Procedura civila si penala cai de atac competente etc Revizuire",
+            1
+        ],
+        [
+            "Succesiuni mosteniri Uzucapiune Prescriptia achizitiva",
+            1
+        ],
+        [
+            "Persoane persecutate din motive politice Prejudicii daune",
+            1
+        ],
+        [
+            "Contracte Locuinte",
+            1
+        ],
+        [
+            "Dobanzi Popriri Proprietate intelectuala",
+            1
+        ],
+        [
+            "Constitutionalitate Drepturile omului Infractiuni Persoane persecutate din motive politice Prejudicii daune",
+            1
+        ],
+        [
+            "Competenta materiala Conflict negativ de competenta Furt Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Furt Instigare complicitate coautorat Prejudicii daune Probe dovezi Procedura civila si penala cai de atac competente etc Raspundere civila delictuala",
+            1
+        ],
+        [
+            "Contracte Despagubiri penalitati Locuinte Preturi stabiliri de",
+            1
+        ],
+        [
+            "Contracte Despagubiri penalitati Locuinte Mandat mandatari Preturi stabiliri de",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Restituiri Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Contracte Despagubiri penalitati Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Competenta materiala Revizuire",
+            1
+        ],
+        [
+            "Contestatie la executare Executarea silita Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Chirii Ordonanta Presedintiala",
+            1
+        ],
+        [
+            "Popriri Probe dovezi",
+            1
+        ],
+        [
+            "Contrarietate Contradictorialitate de hotarari Prescriptii Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Mandat mandatari Plati",
+            1
+        ],
+        [
+            "Competenta teritoriala Familie infractiuni si alte probleme in legatura cu familia Obligatii de intretinere Pensii",
+            1
+        ],
+        [
+            "Executarea silita Popriri",
+            1
+        ],
+        [
+            "Competenta materiala Persoane juridice",
+            1
+        ],
+        [
+            "Competenta materiala Nationalizare Proprietate publica Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Competenta materiala Detinuti politici Drepturile omului",
+            1
+        ],
+        [
+            "Contracte Persoane juridice Societati comerciale Taxa pe valoare adaugata",
+            1
+        ],
+        [
+            "Leasing Popriri Societati comerciale",
+            1
+        ],
+        [
+            "Contracte Persoane juridice Popriri Societati comerciale Suspendare a executarii",
+            1
+        ],
+        [
+            "Contracte Persoane juridice Societati comerciale",
+            1
+        ],
+        [
+            "Cadastru Intabulare Contracte",
+            1
+        ],
+        [
+            "Contracte Executarea silita Licitatii Societati comerciale",
+            1
+        ],
+        [
+            "Contracte Societati comerciale",
+            1
+        ],
+        [
+            "Bunuri si valori imobiliare Cadastru Intabulare Contracte Persoane juridice Posesie Societati comerciale",
+            1
+        ],
+        [
+            "Petitoriu",
+            1
+        ],
+        [
+            "Organizare judecatoreasca",
+            1
+        ],
+        [
+            "Veterani de razboi",
+            1
+        ],
+        [
+            "Alocatii",
+            1
+        ],
+        [
+            "Libertatea persoanei infractiuni privind",
+            1
+        ],
+        [
+            "Prefecturi prefecti",
+            1
+        ],
+        [
+            "Iresponsabilitatea",
+            1
+        ],
+        [
+            "Calomnie insulta",
+            1
+        ],
+        [
+            "Suspendare a procesului penal",
+            1
+        ],
+        [
+            "Libertatea persoanei infractiuni privind Omor Sechestru Confiscare speciala",
+            1
+        ],
+        [
+            "Infractiuni prevazute in legi si decrete Luare de mita Trafic de influenta",
+            1
+        ],
+        [
+            "Drepturile omului Omor",
+            1
+        ],
+        [
+            "Omor Viol",
+            1
+        ],
+        [
+            "Evaziune fiscala Finante Financiar Implicatii ale Min Finantelor",
+            1
+        ],
+        [
+            "Libertatea persoanei infractiuni privind Viol",
+            1
+        ],
+        [
+            "Pensii Salarizare",
+            1
+        ],
+        [
+            "Furt Infractiuni prevazute in legi si decrete",
+            1
+        ],
+        [
+            "Abuzuri Arest preventiv",
+            1
+        ],
+        [
+            "Distrugere Infractiuni prevazute in legi si decrete Posesie",
+            1
+        ],
+        [
+            "Impozite si taxe Infractiuni prevazute in legi si decrete inselaciune",
+            1
+        ],
+        [
+            "Distrugere Furt Posesie",
+            1
+        ],
+        [
+            "Arest preventiv Liberare provizorie",
+            1
+        ],
+        [
+            "Falsificari infractiuni de inselaciune",
+            1
+        ],
+        [
+            "Talharie Tainuire",
+            1
+        ],
+        [
+            "Furt Talharie",
+            1
+        ],
+        [
+            "Omor Talharie",
+            1
+        ],
+        [
+            "Competenta teritoriala Conflict negativ de competenta",
+            1
+        ],
+        [
+            "Libertatea persoanei infractiuni privind Omor",
+            1
+        ],
+        [
+            "Infractiuni prevazute in legi si decrete Omor",
+            1
+        ],
+        [
+            "inselaciune Trafic de influenta",
+            1
+        ],
+        [
+            "Amenzi Loviri si alte vatamari Revocare",
+            1
+        ],
+        [
+            "Amenzi Suspendare a executarii",
+            1
+        ],
+        [
+            "Loviri si alte vatamari Ultraj",
+            1
+        ],
+        [
+            "Distrugere Infractiuni contra proprietatii Loviri si alte vatamari",
+            1
+        ],
+        [
+            "Arest preventiv Libertatea persoanei infractiuni privind Talharie Viol",
+            1
+        ],
+        [
+            "Infractiuni Locuinte",
+            1
+        ],
+        [
+            "Savarsirea mai multor infractiuni",
+            1
+        ],
+        [
+            "Suspendarea conditionata",
+            1
+        ],
+        [
+            "Arest preventiv Talharie",
+            1
+        ],
+        [
+            "Comisioane comisionari",
+            1
+        ],
+        [
+            "Autorizare Constructii",
+            1
+        ],
+        [
+            "Revolutionari drepturi",
+            1
+        ],
+        [
+            "Cautiune",
+            1
+        ],
+        [
+            "Delegatii Detasari",
+            1
+        ],
+        [
+            "Religii Culte Parohii Cimitire Biserici",
+            1
+        ],
+        [
+            "somaj",
+            1
+        ],
+        [
+            "Agricultura",
+            1
+        ],
+        [
+            "Buget",
+            1
+        ],
+        [
+            "invatamant",
+            1
+        ],
+        [
+            "Detinuti politici Persoane persecutate din motive politice",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Locuinte",
+            1
+        ],
+        [
+            "Despagubiri penalitati Prejudicii daune",
+            1
+        ],
+        [
+            "Locuinte Preturi stabiliri de Revendicare actiuni bunuri drepturi VanzariCumparari",
+            1
+        ],
+        [
+            "Familie infractiuni si alte probleme in legatura cu familia Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Faliment Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Primari primarii",
+            1
+        ],
+        [
+            "Concesionari concesiuni Licitatii",
+            1
+        ],
+        [
+            "imprumuturi credite creditori inselaciune Locuinte",
+            1
+        ],
+        [
+            "Competenta materiala Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Granituire Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Competenta materiala Familie infractiuni si alte probleme in legatura cu familia",
+            1
+        ],
+        [
+            "Cereri Revizuire",
+            1
+        ],
+        [
+            "Antecontracte Chemare in judecata actiuni cereri Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Notari si activitate notariala Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Contracte Faliment",
+            1
+        ],
+        [
+            "Asigurari auto si alte asigurari Despagubiri penalitati",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Actiuni in anulare posesorie regres pauliana etc Autorizare",
+            1
+        ],
+        [
+            "invatamant Salarizare",
+            1
+        ],
+        [
+            "Procedura civila si penala cai de atac competente etc Raporturi de munca",
+            1
+        ],
+        [
+            "Contracte de munca Raporturi de munca",
+            1
+        ],
+        [
+            "Arest preventiv Drepturile omului",
+            1
+        ],
+        [
+            "Antecontracte VanzariCumparari",
+            1
+        ],
+        [
+            "Despagubiri penalitati Persoane persecutate din motive politice",
+            1
+        ],
+        [
+            "Bunuri si valori imobiliare Despagubiri penalitati",
+            1
+        ],
+        [
+            "Antecontracte Rezolutiune VanzariCumparari",
+            1
+        ],
+        [
+            "Cereri Interventie locuinte de cereri de",
+            1
+        ],
+        [
+            "Constructii Demolari Prescriptii",
+            1
+        ],
+        [
+            "Bunuri si valori imobiliare Despagubiri penalitati Persoane persecutate din motive politice",
+            1
+        ],
+        [
+            "Despagubiri penalitati Exproprieri",
+            1
+        ],
+        [
+            "Pietre si Metale pretioase Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Donatii Restituiri Revocare",
+            1
+        ],
+        [
+            "Comisioane comisionari Servituti",
+            1
+        ],
+        [
+            "Asistenta juridica Cereri Procedura civila si penala cai de atac competente etc Taxa de timbru",
+            1
+        ],
+        [
+            "Falsificari infractiuni de Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Posesie Proprietate privata",
+            1
+        ],
+        [
+            "Chemare in judecata actiuni cereri Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Chemare in judecata actiuni cereri Societati comerciale",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Locuinte",
+            1
+        ],
+        [
+            "Executarea silita Pensii Restituiri",
+            1
+        ],
+        [
+            "Activitati economice infractiuni privind regimul lor Asistenta si asigurari sociale Buget Impozite si taxe",
+            1
+        ],
+        [
+            "Desfacerea contractului de munca Raporturi de munca",
+            1
+        ],
+        [
+            "Prescriptii Salarizare",
+            1
+        ],
+        [
+            "Drepturile omului Probe dovezi Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc Contracte Locuinte VanzariCumparari",
+            1
+        ],
+        [
+            "Exproprieri Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Familie infractiuni si alte probleme in legatura cu familia Locuinte",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Infractiuni",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Infractiuni Plangeri prealabile",
+            1
+        ],
+        [
+            "Carte Funciara Executarea silita",
+            1
+        ],
+        [
+            "Drepturile omului Prejudicii daune Raspundere civila delictuala",
+            1
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc Carte Funciara Chemare in judecata actiuni cereri Constructii Demolari Reconstituiri fapte acte drepturi",
+            1
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc Procedura civila si penala cai de atac competente etc Succesiuni mosteniri",
+            1
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc Contracte Locuinte Restituiri Succesiuni mosteniri VanzariCumparari",
+            1
+        ],
+        [
+            "Avocati Constitutionalitate Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Procedura civila si penala cai de atac competente etc Repunere in drepturi",
+            1
+        ],
+        [
+            "Obligatii de intretinere Plati",
+            1
+        ],
+        [
+            "Asistenta si asigurari sociale Despagubiri penalitati",
+            1
+        ],
+        [
+            "Acte ale autoritatilor publice Restructurare Reorganizare",
+            1
+        ],
+        [
+            "Probe dovezi Raporturi de munca",
+            1
+        ],
+        [
+            "Gestiune frauduloasa Prejudicii daune Raporturi de munca Religii Culte Parohii Cimitire Biserici",
+            1
+        ],
+        [
+            "Cereri Chemare in judecata actiuni cereri Probe dovezi Procedura civila si penala cai de atac competente etc",
+            1
+        ],
+        [
+            "Infractiuni Loviri si alte vatamari",
+            1
+        ],
+        [
+            "Asistenta juridica Furt Infractiuni Procedura civila si penala cai de atac competente etc Suspendarea conditionata",
+            1
+        ],
+        [
+            "Arest preventiv Masuri de siguranta si educative",
+            1
+        ],
+        [
+            "Actiuni in anulare posesorie regres pauliana etc Carte Funciara",
+            1
+        ],
+        [
+            "Despagubiri penalitati Expertize Exproprieri Preturi stabiliri de VanzariCumparari",
+            1
+        ],
+        [
+            "Despagubiri penalitati Preturi stabiliri de Restituiri Revendicare actiuni bunuri drepturi VanzariCumparari",
+            1
+        ],
+        [
+            "Despagubiri penalitati Restituiri Revendicare actiuni bunuri drepturi",
+            1
+        ],
+        [
+            "Drepturile omului Prejudicii daune Repunere in drepturi",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Tarife",
+            1
+        ],
+        [
+            "Cadastru Intabulare Carte Funciara Fondul funciar",
+            1
+        ]
+    ]
+}
