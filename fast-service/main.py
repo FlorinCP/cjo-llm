@@ -1,9 +1,23 @@
+import logging
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import torch
 import numpy as np
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, logging as hf_logging
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s',
+                    handlers=[
+                        logging.FileHandler("debug.log"),
+                        logging.StreamHandler()
+                    ])
+logger = logging.getLogger()  # Get the root logger
+
+# Set transformers logging verbosity
+hf_logging.set_verbosity_info()
+
+# If you want to configure the transformers logger specifically
+transformers_logger = logging.getLogger("transformers")
+transformers_logger.setLevel(logging.INFO)  # Set the desired level
 
 class TextItem(BaseModel):
     text: str
@@ -17,10 +31,11 @@ model.eval()
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
-
 @app.post("/classify/")
 def classify_text(item: TextItem):
     try:
+        logger.info(f"Received text for classification: {item.text}")
+
         encoded_input = tokenizer.encode_plus(
             item.text,
             add_special_tokens=True,
@@ -42,5 +57,9 @@ def classify_text(item: TextItem):
         predicted_label = np.argmax(probabilities, axis=1)[0]
         return {"label": int(predicted_label)}
     except Exception as e:
+        logger.exception("Error during classification")
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/health")
+def health_check():
+    return {"status": "running"}
